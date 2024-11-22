@@ -10,8 +10,8 @@ aforementioned project. Only maps resulting from the WGLBBO western Lake Michiga
 If you intend to use these data and/or maps, please cite them as Mueller, W. P. 2024. WGLBBO Maps and Data from the Great Lakes Commission’s “Monitoring and Mapping Avian Resources in the Nearshore 
 and Open Waters of Lakes Erie, Huron, Michigan, and St. Clair”, Lake Michigan Bird Observatory.   
 <p>
-Contact: <p>   
-William P. Mueller <p>   
-Director Emeritus, Lake Michigan Bird Observatory <p>  
-wpmueller1947@gmail.com <p>  
-Milwaukee, WI <p>  
+Contact: <br>   
+William P. Mueller <br>   
+Director Emeritus, Lake Michigan Bird Observatory <br>  
+wpmueller1947@gmail.com <br>  
+Milwaukee, WI  
