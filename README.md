@@ -10,13 +10,8 @@ aforementioned project. Only maps resulting from the WGLBBO western Lake Michiga
 If you intend to use these data and/or maps, please cite them as Mueller, W. P. 2024. WGLBBO Maps and Data from the Great Lakes Commission’s “Monitoring and Mapping Avian Resources in the Nearshore 
 and Open Waters of Lakes Erie, Huron, Michigan, and St. Clair”, Lake Michigan Bird Observatory.   
 <p>
-Contact:   
-William P. Mueller   
-Director Emeritus, Lake Michigan Bird Observatory   
-wpmueller1947@gmail.com   
-Milwaukee, WI   
-414-698-9108   
-Blog: https://futureofbirds.blogspot.com/   
-Midwest Migration Network: https://midwestmigrationnetwork.org/   
-Midwest Aerial Insectivore Discussion Group: https://www.facebook.com/groups/1581381955435390/   
-Conservation and Ecology - Insects in the Midwest: https://www.facebook.com/groups/183261300269413   
+Contact: <p>   
+William P. Mueller <p>   
+Director Emeritus, Lake Michigan Bird Observatory <p>  
+wpmueller1947@gmail.com <p>  
+Milwaukee, WI <p>  
